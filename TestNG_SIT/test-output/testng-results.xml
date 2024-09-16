@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-10T16:15:02 IST" name="Suite" finished-at="2024-01-10T16:15:15 IST" duration-ms="13368">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T16:15:02 IST" name="Test" finished-at="2024-01-10T16:15:15 IST" duration-ms="13368">
+      <class name="com.parellel_practice.Parellel_Practice">
+        <test-method signature="OrangeHrmlogin()[pri:0, instance:com.parellel_practice.Parellel_Practice@4c60d6e9]" started-at="2024-01-10T16:15:02 IST" name="OrangeHrmlogin" finished-at="2024-01-10T16:15:15 IST" duration-ms="13192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHrmlogin -->
+        <test-method signature="google()[pri:0, instance:com.parellel_practice.Parellel_Practice@4c60d6e9]" started-at="2024-01-10T16:15:02 IST" name="google" finished-at="2024-01-10T16:15:08 IST" duration-ms="6136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method signature="Adactin_login()[pri:0, instance:com.parellel_practice.Parellel_Practice@4c60d6e9]" started-at="2024-01-10T16:15:02 IST" name="Adactin_login" finished-at="2024-01-10T16:15:11 IST" duration-ms="8555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adactin_login -->
+      </class> <!-- com.parellel_practice.Parellel_Practice -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
